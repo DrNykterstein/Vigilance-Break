@@ -1,9 +1,11 @@
-**Alternativas al buscador de Google** 
+**ALTERNATIVAS A GOOGLE(BUSCADOR)** 
 
 Duckduuckgo
+
 https://duckduckgo.com/?t=ffab
 
 Startpage
+
 https://www.startpage.com/
 
 NullMedia   
@@ -14,7 +16,7 @@ https://searx.xyz/
 
 
 
-**Alternativas a GoogleDocs **
+**Alternativas a GoogleDocs**
 
 Etherpad/Pads:
 
