@@ -1,14 +1,14 @@
 # ALTERNATIVAS A GOOGLE(BUSCADOR)
 
-## Duckduckgo : https://duckduckgo.com/?t=ffab
+##### Duckduckgo : https://duckduckgo.com/?t=ffab
 
-# Startpage: https://www.startpage.com/
+##### Startpage: https://www.startpage.com/
 
-# NullMedia: https://null.media/
+##### NullMedia: https://null.media/
 
-# Searx:  https://searx.xyz/
+##### Searx:  https://searx.xyz/
 
-## ALTERNATIVAS A GOOGLEDOCS 
+# ALTERNATIVAS A GOOGLEDOCS 
 
 Etherpad/Pads:
 
