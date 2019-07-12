@@ -10,7 +10,7 @@
 
 # ALTERNATIVAS A GOOGLEDOCS 
 
-Etherpad/Pads:
+#####Etherpad/Pads:
 
     https://pad.riseup.net
     https://pad.disroot.org/
@@ -19,22 +19,23 @@ Etherpad/Pads:
     https://pad.mazorca.org
     
    
- CryptPad:
+##### CryptPad:
     https://cryptpad.fr/
 
-**ALTERNATIVAS A CHROME**
+# ALTERNATIVAS A CHROME
 
-Firefox:  https://www.mozilla.org/en-US/firefox/new/
-Tor browser:  https://torproject.org
-Brave: https://brave.com/bra908
+##### Firefox:  https://www.mozilla.org/en-US/firefox/new/
+##### Tor browser:  https://torproject.org
+##### Brave: https://brave.com/bra908
 
-**CORREO ELECTRONICO**
+# CORREO ELECTRONICO
 
-CounterMail: https://countermail.com/
-Protonmail: https://protonmail.com/
-Disroot: https://disroot.org/en
-Riseup: https://riseup.net/
-Tutanota: https://tutanota.com/
+##### CounterMail: https://countermail.com/
+##### Protonmail: https://protonmail.com/
+##### Disroot: https://disroot.org/en
+##### Riseup: https://riseup.net/
+##### Tutanota: https://tutanota.com/
+##### Autistici: https://www.autistici.org/
 
-**CORREO TEMPORAL**
-GerrillaMail: https://guerrillamail.com
+# CORREO TEMPORAL
+##### GerrillaMail: https://guerrillamail.com
