@@ -1,12 +1,16 @@
-**Alternativas al buscador de Google ** 
+**Alternativas al buscador de Google** 
 
-Duckduuckgo: https://duckduckgo.com/?t=ffab
+Duckduuckgo
+https://duckduckgo.com/?t=ffab
 
-Startpage: https://www.startpage.com/
+Startpage
+https://www.startpage.com/
 
-NullMedia   https://null.media/
+NullMedia   
+https://null.media/
 
-Searx    https://searx.xyz/
+Searx    
+https://searx.xyz/
 
 
 
