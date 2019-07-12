@@ -1,6 +1,6 @@
 **ALTERNATIVAS A GOOGLE(BUSCADOR)** 
 
-Duckduuckgo : https://duckduckgo.com/?t=ffab
+##Duckduuckgo : https://duckduckgo.com/?t=ffab
 
 Startpage: https://www.startpage.com/
 
