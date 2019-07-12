@@ -1,4 +1,5 @@
 # ALTERNATIVAS A WHATSAAP
+##### SILENCE: https://silence.im/
 ##### Wickr: https://wickr.com/
 ##### Signal: https://signal.org
 ##### Wire: https://wire.com/en/
