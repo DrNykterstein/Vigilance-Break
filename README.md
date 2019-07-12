@@ -1,4 +1,4 @@
-** Alternativas al buscador de Google ** 
+**Alternativas al buscador de Google ** 
 
 Duckduuckgo: https://duckduckgo.com/?t=ffab
 Startpage: https://www.startpage.com/
@@ -6,7 +6,7 @@ NullMedia   https://null.media/
 Searx    https://searx.xyz/
 
 
-** Alternativas a GoogleDocs **
+**Alternativas a GoogleDocs **
 
 Etherpad/Pads:
     https://pad.riseup.net
