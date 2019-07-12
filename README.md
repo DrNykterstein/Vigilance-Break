@@ -1,22 +1,14 @@
 **ALTERNATIVAS A GOOGLE(BUSCADOR)** 
 
-Duckduuckgo
+Duckduuckgo : https://duckduckgo.com/?t=ffab
 
-https://duckduckgo.com/?t=ffab
+Startpage: https://www.startpage.com/
 
-Startpage
+NullMedia: https://null.media/
 
-https://www.startpage.com/
+Searx:  https://searx.xyz/
 
-NullMedia   
-https://null.media/
-
-Searx    
-https://searx.xyz/
-
-
-
-**Alternativas a GoogleDocs**
+**ALTERNATIVAS A GOOGLEDOCS**
 
 Etherpad/Pads:
 
@@ -29,3 +21,20 @@ Etherpad/Pads:
    
  CryptPad:
     https://cryptpad.fr/
+
+**ALTERNATIVAS A CHROME**
+
+Firefox:  https://www.mozilla.org/en-US/firefox/new/
+Tor browser:  https://torproject.org
+Brave: https://brave.com/bra908
+
+**CORREO ELECTRONICO**
+
+CounterMail: https://countermail.com/
+Protonmail: https://protonmail.com/
+Disroot: https://disroot.org/en
+Riseup: https://riseup.net/
+Tutanota: https://tutanota.com/
+
+**CORREO TEMPORAL**
+GerrillaMail: https://guerrillamail.com
