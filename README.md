@@ -4,7 +4,6 @@
 ##### Signal: https://signal.org
 ##### Wire: https://wire.com/en/
 ##### Telegram: https://telegram.org/
-##### XMPP/Jabber: https://mierda.tv/2018/03/30/pasos-para-abrir-una-cuenta-xmpp-jabber/
 ##### Matrix: https://matrix.org/ https://about.riot.im/
 ##### Briar: https://briarproject.org/
 
