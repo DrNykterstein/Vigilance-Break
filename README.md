@@ -1,3 +1,12 @@
+# ALTERNATIVAS A WHATSAAP
+##### Wickr: https://wickr.com/
+##### Signal: https://signal.org
+##### Wire: https://wire.com/en/
+##### Telegram: https://telegram.org/
+##### XMPP/Jabber: https://mierda.tv/2018/03/30/pasos-para-abrir-una-cuenta-xmpp-jabber/
+##### Matrix: https://matrix.org/ https://about.riot.im/
+##### Briar: https://briarproject.org/
+
 # ALTERNATIVAS A GOOGLE(BUSCADOR)
 
 ##### Duckduckgo : https://duckduckgo.com/?t=ffab
@@ -10,7 +19,7 @@
 
 # ALTERNATIVAS A GOOGLEDOCS 
 
-#####Etherpad/Pads:
+##### Etherpad/Pads:
 
     https://pad.riseup.net
     https://pad.disroot.org/
@@ -39,3 +48,10 @@
 
 # CORREO TEMPORAL
 ##### GerrillaMail: https://guerrillamail.com
+
+# Alternativas de cliente de e-mail
+
+##### THunderbird: https://www.thunderbird.net/en-US/
+##### K-9 Mail: https://k9mail.github.io/
+##### Kolab Now: https://kolabnow.com/
+
