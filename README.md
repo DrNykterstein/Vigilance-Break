@@ -4,7 +4,7 @@
 ##### Signal: https://signal.org
 ##### Wire: https://wire.com/en/
 ##### Telegram: https://telegram.org/
-##### Matrix: https://matrix.org/ https://about.riot.im/
+##### Matrix: https://matrix.org/
 ##### Briar: https://briarproject.org/
 
 # ALTERNATIVAS A GOOGLE(BUSCADOR)
