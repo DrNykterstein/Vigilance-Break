@@ -17,6 +17,8 @@
 
 ##### Searx:  https://searx.xyz/
 
+##### Yandex(Buscador ruso): https://yandex.com/
+
 # ALTERNATIVAS A GOOGLEDOCS 
 
 ##### Etherpad/Pads:
