@@ -59,3 +59,6 @@
 ##### K-9 Mail: https://k9mail.github.io/
 ##### Kolab Now: https://kolabnow.com/
 
+# ALTERNATIVAS A TWITTER
+##### Mastodon : https://mastodon.social
+
