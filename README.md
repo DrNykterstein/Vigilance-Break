@@ -19,6 +19,8 @@
 
 ##### Yandex(Buscador ruso): https://yandex.com/
 
+##### Ecosia : https://www.ecosia.org/
+
 # ALTERNATIVAS A GOOGLEDOCS 
 
 ##### Etherpad/Pads:
