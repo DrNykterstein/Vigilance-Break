@@ -1,3 +1,7 @@
+# ALTERNATIVAS A GOOGLEDRIVE, DROPBOX
+##### BORG : https://www.borgbackup.org/
+##### CRYPTOMATOR: https://cryptomator.org/
+
 # ALTERNATIVAS A WHATSAAP
 ##### SILENCE: https://silence.im/
 ##### Wickr: https://wickr.com/
