@@ -1,3 +1,7 @@
+# DISTRIBUCIONES ENFOCADAS A LA PRIVACIDAD
+##### WHONIX : https://www.whonix.org/
+##### QUBE OS : https://www.qubes-os.org/
+
 # ALTERNATIVAS A GOOGLEDRIVE, DROPBOX
 ##### BORG : https://www.borgbackup.org/
 ##### CRYPTOMATOR: https://cryptomator.org/
