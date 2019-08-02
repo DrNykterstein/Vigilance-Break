@@ -1,7 +1,10 @@
 # DISTRIBUCIONES ENFOCADAS A LA PRIVACIDAD
 ##### WHONIX : https://www.whonix.org/
 ##### QUBE OS : https://www.qubes-os.org/
-#### TAILS: https://tails.boum.org/
+##### TAILS: https://tails.boum.org/
+
+# ALTERNATIVAS A GOOGLE TRANSLATE
+#### APERTIUM : https://www.apertium.org/
 
 # ALTERNATIVAS A GOOGLEDRIVE, DROPBOX
 ##### BORG : https://www.borgbackup.org/
