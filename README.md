@@ -64,6 +64,7 @@
 
 # CORREO TEMPORAL
 ##### GerrillaMail: https://guerrillamail.com
+##### Temp-Mail : https://temp-mail.org/es
 
 # Alternativas de cliente de e-mail
 
