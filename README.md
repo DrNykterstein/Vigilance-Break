@@ -75,3 +75,6 @@
 # ALTERNATIVAS A TWITTER
 ##### Mastodon : https://mastodon.social
 
+# ALTERNATIVAS A GOOGLE PUBLIC DNS
+##### NSUPDATE https://www.nsupdate.info/
+
