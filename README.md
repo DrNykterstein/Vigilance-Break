@@ -33,6 +33,9 @@
 
 ##### Ecosia : https://www.ecosia.org/
 
+# ALTERNATIVAS A GOOGLE PLAY
+##### F-DROID: https://f-droid.org/
+
 # ALTERNATIVAS A GOOGLEDOCS 
 
 ##### Etherpad/Pads:
