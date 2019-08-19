@@ -62,6 +62,10 @@
 # ALTERNATIVAS A MEDIUM
 #### Write Freely: https://writefreely.org
 
+# ALTERNATIVAS A PATREON
+#### liberapay: https://liberapay.com/
+#### OpenCollective: https://opencollective.com/
+
 # CORREO ELECTRONICO
 
 ##### CounterMail: https://countermail.com/
