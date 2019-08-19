@@ -56,6 +56,12 @@
 ##### Tor browser:  https://torproject.org
 ##### Brave: https://brave.com/bra908
 
+# ALTERNATIVAS A GOOGLE CALENDER
+##### NextCloud: https://nextcloud.com/
+
+# ALTERNATIVAS A MEDIUM
+#### Write Freely: https://writefreely.org
+
 # CORREO ELECTRONICO
 
 ##### CounterMail: https://countermail.com/
