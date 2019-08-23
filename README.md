@@ -89,5 +89,6 @@
 ##### Mastodon : https://mastodon.social
 
 # ALTERNATIVAS A GOOGLE PUBLIC DNS
-##### NSUPDATE https://www.nsupdate.info/
+##### NSUPDATE :https://www.nsupdate.info/
+##### DNSCrypt-Proxy :https://github.com/jedisct1/dnscrypt-proxy
 
