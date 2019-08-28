@@ -9,6 +9,7 @@
 # ALTERNATIVAS A GOOGLEDRIVE, DROPBOX
 ##### BORG : https://www.borgbackup.org/
 ##### CRYPTOMATOR: https://cryptomator.org/
+##### Git-Annex https://git-annex.branchable.com/
 
 # ALTERNATIVAS A WHATSAAP
 ##### SILENCE: https://silence.im/
