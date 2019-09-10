@@ -10,6 +10,7 @@
 ##### BORG : https://www.borgbackup.org/
 ##### CRYPTOMATOR: https://cryptomator.org/
 ##### Git-Annex https://git-annex.branchable.com/
+##### Sia : https://www.sia.tech/
 
 # ALTERNATIVAS A WHATSAAP
 ##### SILENCE: https://silence.im/
