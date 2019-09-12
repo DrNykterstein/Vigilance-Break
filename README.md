@@ -38,6 +38,9 @@
 # ALTERNATIVAS A GOOGLE PLAY
 ##### F-DROID: https://f-droid.org/
 
+# AlTERNATIVA A GOOGLE TRANSLATE
+##### Deepl: https://www.deepl.com
+
 # ALTERNATIVAS A GOOGLEDOCS 
 
 ##### Etherpad/Pads:
