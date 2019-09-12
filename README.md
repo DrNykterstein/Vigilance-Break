@@ -40,6 +40,7 @@
 
 # AlTERNATIVA A GOOGLE TRANSLATE
 ##### Deepl: https://www.deepl.com
+##### Apertium: https://www.apertium.org/index.eng.html?dir=nld-afr#translation
 
 # ALTERNATIVAS A GOOGLEDOCS 
 
