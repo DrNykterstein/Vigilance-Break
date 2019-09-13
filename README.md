@@ -98,3 +98,8 @@
 ##### NSUPDATE :https://www.nsupdate.info/
 ##### DNSCrypt-Proxy :https://github.com/jedisct1/dnscrypt-proxy
 
+# ROM
+##### Lineage : https://lineageos.org
+##### ParanoidAndroid : http://paranoidandroid.co/
+
+
