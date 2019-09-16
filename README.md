@@ -27,6 +27,8 @@
 
 ##### Startpage: https://www.startpage.com/
 
+##### Swisscows: https://swisscows.ch/
+
 ##### NullMedia: https://null.media/
 
 ##### Searx:  https://searx.xyz/
