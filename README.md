@@ -24,6 +24,8 @@
 
 ##### Startpage: https://www.startpage.com/
 
+##### Disconnect Search: https://search.disconnect.me/
+
 ##### Swisscows: https://swisscows.ch/
 
 ##### NullMedia: https://null.media/
