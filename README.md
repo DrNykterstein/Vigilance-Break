@@ -3,9 +3,6 @@
 ##### QUBE OS : https://www.qubes-os.org/
 ##### TAILS: https://tails.boum.org/
 
-# ALTERNATIVAS A GOOGLE TRANSLATE
-#### APERTIUM : https://www.apertium.org/
-
 # ALTERNATIVAS A GOOGLEDRIVE, DROPBOX
 ##### BORG : https://www.borgbackup.org/
 ##### CRYPTOMATOR: https://cryptomator.org/
