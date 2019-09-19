@@ -62,6 +62,7 @@
 ##### Firefox:  https://www.mozilla.org/en-US/firefox/new/
 ##### Tor browser:  https://torproject.org
 ##### Brave: https://brave.com/bra908
+##### Palemoon : https://www.palemoon.org/
 
 # ALTERNATIVAS A GOOGLE CALENDER
 ##### NextCloud: https://nextcloud.com/
