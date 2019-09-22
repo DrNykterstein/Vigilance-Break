@@ -103,5 +103,6 @@
 # ROM
 ##### Lineage : https://lineageos.org
 ##### ParanoidAndroid : http://paranoidandroid.co/
+##### Vanilla RootBox https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-gt-i9100-vanilla-rootbox-t1806401
 
 
