@@ -63,6 +63,7 @@
 ##### Tor browser:  https://torproject.org
 ##### Brave: https://brave.com/bra908
 ##### Palemoon : https://www.palemoon.org/
+##### Epiphany : https://pkgs.org/download/epiphany-browser
 
 # ALTERNATIVAS A GOOGLE CALENDER
 ##### NextCloud: https://nextcloud.com/
