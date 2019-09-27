@@ -106,4 +106,7 @@
 ##### ParanoidAndroid : http://paranoidandroid.co/
 ##### Vanilla RootBox https://forum.xda-developers.com/galaxy-s2/development-derivatives/rom-gt-i9100-vanilla-rootbox-t1806401
 
+# Lectores RSS (Libres)
+##### spaRSS : https://github.com/Etuldan/spaRSS
+##### EasyRSS : https://github.com/Alkarex/EasyRSS/blob/HEAD/README.md
 
