@@ -52,6 +52,7 @@
     https://etherpad.wikimedia.org/
     https://framapad.org/en/
     https://pad.mazorca.org
+    https://bin.privacytools.io/
     
    
 ##### CryptPad:
