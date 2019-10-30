@@ -120,3 +120,6 @@
 
 # Biblioteca
 #### Openlibra:https://openlibra.com/es/
+
+# Para borra metadatos de las fotos del celular
+#### Scrambled Exif: https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/
