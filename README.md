@@ -24,6 +24,10 @@
 
 ##### Startpage: https://www.startpage.com/
 
+##### Epicbrowser: https://www.epicbrowser.com/
+
+##### Netrunner:https://netrunner.cc/
+
 ##### Disconnect Search: https://search.disconnect.me/
 
 ##### Swisscows: https://swisscows.ch/
@@ -123,3 +127,7 @@
 
 # Para borra metadatos de las fotos del celular
 #### Scrambled Exif: https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/
+
+# Extensions & plugins for web browsers
+#### User-Agent Switcher:https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US
+#### Privacybadger: https://www.eff.org/privacybadger
