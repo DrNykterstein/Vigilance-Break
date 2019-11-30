@@ -40,6 +40,9 @@
 
 ##### Ecosia : https://www.ecosia.org/
 
+# ALTERNATIVAS A GOOGLE MAPS
+##### OpenStreetMap: https://www.openstreetmap.org/#map=6/6.447/-66.579
+
 # ALTERNATIVAS A GOOGLE PLAY
 ##### F-DROID: https://f-droid.org/
 
