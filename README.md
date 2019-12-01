@@ -78,6 +78,7 @@
 
 # ALTERNATIVAS A MEDIUM
 #### Write Freely: https://writefreely.org
+#### DEV.to : https://dev.to/
 
 # ALTERNATIVAS A PATREON
 #### liberapay: https://liberapay.com/
