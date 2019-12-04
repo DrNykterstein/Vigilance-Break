@@ -135,3 +135,6 @@
 # Extensions & plugins for web browsers
 #### User-Agent Switcher:https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US
 #### Privacybadger: https://www.eff.org/privacybadger
+
+# Two-factor authenticator for Android.
+#### andOTP: https://github.com/andOTP/andOTP
