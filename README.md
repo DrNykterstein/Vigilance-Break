@@ -94,7 +94,7 @@
 ##### Autistici: https://www.autistici.org/
 
 # CORREO TEMPORAL
-##### GerrillaMail: https://guerrillamail.com
+##### GuerrillaMail: https://guerrillamail.com
 ##### Temp-Mail : https://temp-mail.org/es
 
 # Alternativas de cliente de e-mail
@@ -129,7 +129,7 @@
 # Biblioteca
 #### Openlibra:https://openlibra.com/es/
 
-# Para borra metadatos de las fotos del celular
+# Para eliminar metadatos de fotografias 
 #### Scrambled Exif: https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/
 
 # Extensions & plugins for web browsers
