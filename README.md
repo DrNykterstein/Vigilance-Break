@@ -106,6 +106,9 @@
 # ALTERNATIVAS A TWITTER
 ##### Mastodon : https://mastodon.social
 
+# ALTERNATIVAS A REDES SOCIALES
+##### RETROSHARE:https://retroshare.cc/
+
 # ALTERNATIVAS A GOOGLE PUBLIC DNS
 ##### NSUPDATE :https://www.nsupdate.info/
 ##### DNSCrypt-Proxy :https://github.com/jedisct1/dnscrypt-proxy
