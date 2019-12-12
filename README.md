@@ -141,3 +141,6 @@
 
 # Two-factor authenticator for Android.
 #### andOTP: https://github.com/andOTP/andOTP
+
+# Comunicación en ioS
+#### https://chatsecure.org/
