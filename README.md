@@ -108,6 +108,7 @@
 
 # ALTERNATIVAS A REDES SOCIALES
 ##### RETROSHARE:https://retroshare.cc/
+##### Friendica:https://friendi.ca/
 
 # ALTERNATIVAS A GOOGLE PUBLIC DNS
 ##### NSUPDATE :https://www.nsupdate.info/
