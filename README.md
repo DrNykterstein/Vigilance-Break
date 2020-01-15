@@ -8,6 +8,7 @@
 ##### CRYPTOMATOR: https://cryptomator.org/
 ##### Git-Annex https://git-annex.branchable.com/
 ##### Sia : https://www.sia.tech/
+##### Degoo: https://degoo.com/
 
 # ALTERNATIVAS A WHATSAAP
 ##### SILENCE: https://silence.im/
