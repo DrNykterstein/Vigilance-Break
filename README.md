@@ -37,8 +37,6 @@
 
 ##### Searx:  https://searx.xyz/
 
-##### Yandex(Buscador ruso): https://yandex.com/
-
 ##### Ecosia : https://www.ecosia.org/
 
 # ALTERNATIVAS A GOOGLE MAPS
