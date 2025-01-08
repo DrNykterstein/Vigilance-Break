@@ -104,7 +104,7 @@
 ##### K-9 Mail: https://k9mail.github.io/
 ##### Kolab Now: https://kolabnow.com/
 
-# ALTERNATIVAS A TWITTER
+# ALTERNATIVAS A X
 ##### Mastodon : https://mastodon.social
 
 # ALTERNATIVAS A REDES SOCIALES
@@ -130,6 +130,7 @@
 
 # VPN
 #### Riseaup : https://riseup.net/es/vpn
+####  OpenVPN : https://openvpn.net/
 
 # Biblioteca
 #### Openlibra:https://openlibra.com/es/
