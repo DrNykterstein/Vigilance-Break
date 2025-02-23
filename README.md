@@ -69,7 +69,7 @@
 ##### Tenta: https://tenta.com/#page-top
 ##### Firefox:  https://www.mozilla.org/en-US/firefox/new/
 ##### Tor browser:  https://torproject.org
-##### Brave: https://brave.com/bra908 (NO RECOMENDADO)
+##### Brave: https://brave.com/bra908 (NO RECOMENDADO SI TE IMPORTA LA PRIVACIDAD)
 ##### Palemoon : https://www.palemoon.org/
 ##### Epiphany : https://pkgs.org/download/epiphany-browser
 
